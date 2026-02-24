@@ -1,3 +1,4 @@
+![System Setup](RPi 3.jpg)
 **Technical System Analysis**
 The system acts as a central hub that processes visual data in real time and reacts via hardware and cloud services.
 
