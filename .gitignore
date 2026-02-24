@@ -179,3 +179,13 @@ cython_debug/
 #  refer to https://docs.cursor.com/context/ignore-files
 .cursorignore
 .cursorindexingignore
+# Credentials & Secrets
+mycreds.txt
+.env
+
+# Python stuff
+__pycache__/
+*.py[cod]
+
+# Project specific
+images/
