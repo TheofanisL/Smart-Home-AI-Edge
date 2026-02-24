@@ -1,5 +1,4 @@
 <img width="1471" height="1028" alt="RPi 3" src="https://github.com/user-attachments/assets/578a75f7-1258-4bdc-ab1f-cbcf0938a1b9" />
-<img width="1471" height="1028" alt="RPi 3" src="https://github.com/user-attachments/assets/578a75f7-1258-4bdc-ab1f-cbcf0938a1b9" />
 
 **Technical System Analysis**
 The system acts as a central hub that processes visual data in real time and reacts via hardware and cloud services.
