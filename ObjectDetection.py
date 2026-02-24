@@ -38,7 +38,7 @@ Settings = {
    
 TimeSettings = {
    1 : {'name' : 'Light On Time', 'key': 'lightontime', 'value' : "20:30"},
-   2 : {'name' : 'Light Off Time', 'key': 'lightofftime', 'value' : "19:15"}
+   2 : {'name' : 'Light Off Time', 'key': 'lightofftime', 'value' : "7:15"}
    }
    
 
@@ -192,7 +192,7 @@ def update_servo_configuration():
             time.sleep(0.01)
 
 # Function to authenticate and upload files to Google Drive
-def upload_to_drive_async(file_path, folder_id='1DyGNMEuZ6Kv04DjOzcutEU0BsG81119a'):
+def upload_to_drive_async(file_path, folder_id='XYZ'):
     def upload_func():
         try:
             gauth = GoogleAuth()
